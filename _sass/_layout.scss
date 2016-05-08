@@ -43,7 +43,8 @@ hr {
     margin:auto;
     opacity:.8;
     transition: opacity .3s;
-
+    position: relative;
+    z-index: 1;
     &:hover {
         opacity:.6;
         text-decoration: none;
