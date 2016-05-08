@@ -14,10 +14,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-    background-image:url("../images/background_p.jpg");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     -webkit-text-size-adjust: 100%;
@@ -90,11 +87,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-    color: $brand-color;
+    color: $text-color;
     text-decoration: none;
 
+
     &:visited {
-        color: darken($brand-color, 15%);
+        color: darken($text-color, 15%);
     }
 
     &:hover {

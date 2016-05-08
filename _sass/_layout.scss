@@ -29,13 +29,13 @@ hr {
    border: 0;
    height: 1px;
    background: rgb(131, 164, 175);
-   background-image: linear-gradient(to right, white, #ED9A9A, white);
+   background-image: linear-gradient(to right, white, #333, white);
    opacity:.5;
 }
 .site-title {
     font-family:$head-font-family;
-    font-size: 80px;
-    color:white;
+    font-size: 110px;
+    color:#ED9A9A;
 
     line-height: 56px;
     letter-spacing: -1px;
@@ -49,9 +49,10 @@ hr {
         text-decoration: none;
     }
     &:visited {
-        color: white;
+        color: #ED9A9A; 
     }
 }
+
 
 .site-nav {
     text-align: center;
@@ -62,7 +63,7 @@ hr {
     }
 
     .page-link {
-        color: white;
+        color: #333;
         line-height: $base-line-height;
         font-weight: 900;
         font-size: 20px;
@@ -249,12 +250,11 @@ hr {
 }
 
 .post-title {
-    text-align: center;
     font-weight: 900;
     text-transform: uppercase;
     font-size: 30px;
-    color:white;
-    opacity:.8;
+    color:#ED9A9A;
+    opacity:.5;
     letter-spacing: -1px;
     line-height: 1;
 
@@ -265,6 +265,10 @@ hr {
 
 .post-content {
     margin-bottom: $spacing-unit;
+
+    a {
+        font-weight: 900;
+    }
 
     h2 {
         font-size: 32px;
@@ -300,4 +304,10 @@ hr {
 
 .row {
     padding:10px 0px;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+    margin-left: 0px;
 }
