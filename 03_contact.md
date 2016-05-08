@@ -4,10 +4,9 @@ title: Contact
 permalink: /contact/
 order: 3
 ---
+<p>Email: <a href="mailto:kcheverie@gmail.com">kcheverie@gmail.com</a> | Github: <a href="https://github.com/kcheverie" target="_blank">github.com/kcheverie</a> | LinkedIn: <a href="http://ca.linkedin.com/in/kristincheverie" target="_blank">ca.linkedin.com/in/kristincheverie</a></p> 
 
-Email: <a href="mailto:kcheverie@gmail.com">kcheverie@gmail.com</a>
 
-<h2>Contact me</h2>
 <form class="form-horizontal" action="https://getsimpleform.com/messages?form_api_token=47b80ec38be59b96d3cd18c6af3db28a" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden'/>

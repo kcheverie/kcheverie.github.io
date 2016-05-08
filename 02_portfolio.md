@@ -12,7 +12,10 @@ order: 2
   </div>
 
   <div class="col-md-6"><h2>thriftspotting</h2></div>
-  <div class="col-md-6"><p><a href="https://damp-mountain-53843.herokuapp.com/" target="_blank">thriftspotting</a></p><p>A place to share thrift store finds, so others can snatch them up.</p></div>
+  <div class="col-md-6">
+    <p><a href="https://damp-mountain-53843.herokuapp.com/" target="_blank">Heroku Link</a></p>
+    <p>A place to share thrift store finds, so others can snatch them up.</p>
+  </div>
 
 
 </div>
@@ -23,7 +26,10 @@ order: 2
     <img class="portfolio-thumb" src = "/images/portfolio/weather/01.png"/>
   </div>
   <div class="col-md-6"><h2>weather</h2></div>
-  <div class="col-md-6"><p>find the current weather for any location</p></div>
+  <div class="col-md-6">
+    <p><a href="https://github.com/kcheverie/weather-app" target="_blank">github</a></p>
+    <p>find the current weather for any location</p>  
+  </div>
 
 </div>
 
@@ -33,7 +39,11 @@ order: 2
     <img class="portfolio-thumb" src = "/images/portfolio/contact-list.png"/>
   </div>
   <div class="col-md-6"><h2>contact list</h2></div>
-  <div class="col-md-6"><p>A single page application for adding and searching a list of contacts</p></div>
+  <div class="col-md-6">
+    <p><a href="http://kcheverie-contact-list.herokuapp.com/" target="_blank">heroku link</a><br/>
+    <a href="https://github.com/kcheverie/contact-list-spa" target="_blank">github</a></p>
+    <p>A single page application for adding and searching a list of contacts</p>
+  </div>
 
 </div>
 
@@ -44,7 +54,9 @@ order: 2
     <img class="portfolio-thumb" src = "/images/portfolio/rotten_mangoes/01.png"/>
   </div>
   <div class="col-md-6"><h2>rotten mangoes</h2></div>
-  <div class="col-md-6"><p>Post, rate, and review movies.</p></div>
+  <div class="col-md-6">
+  <p><a href="https://github.com/kcheverie/weather-app" target="_blank">github</a></p>
+  <p>Post, rate, and review movies.</p></div>
 
 </div>
 
