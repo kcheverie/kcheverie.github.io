@@ -89,7 +89,7 @@ order: 2
 <hr/>
 <div class="row">
   <div class="col-md-12">
-    <img class="portfolio-thumb" src = "/images/portfolio/mlp/01.png"/>
+    <img class="portfolio-thumb" src = "/images/portfolio/MLP/01.png"/>
   </div>
   <div class="col-md-6"><h2>maritime lightning protection</h2></div>
   <div class="col-md-6"><p><a href="http://www.maritimelightningprotection.com/" target="_blank">maritimelightningprotection.com</a></p></div>
