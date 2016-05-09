@@ -90,6 +90,7 @@ sub {
 }
 img {
   border: 0;
+  border: 1px solid #dbdbdb;
 }
 svg:not(:root) {
   overflow: hidden;
