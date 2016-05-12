@@ -1,5 +1,5 @@
-/**
- * Site header
+
+ /* Site header
  */
 
  .home {
@@ -81,54 +81,7 @@ hr {
         }
     }
 
-    @include media-query($on-palm) {
-        position: absolute;
-        top: 9px;
-        right: $spacing-unit / 2;
-        background-color: $background-color;
-        border: 1px solid $grey-color-light;
-        border-radius: 5px;
-        text-align: right;
 
-        .menu-icon {
-            display: block;
-            float: right;
-            width: 36px;
-            height: 26px;
-            line-height: 0;
-            padding-top: 10px;
-            text-align: center;
-
-            > svg {
-                width: 18px;
-                height: 15px;
-
-                path {
-                    fill: $grey-color-dark;
-                }
-            }
-        }
-
-        .trigger {
-            clear: both;
-            display: none;
-        }
-
-        &:hover .trigger {
-            display: block;
-            padding-bottom: 5px;
-        }
-
-        .page-link {
-            display: block;
-            padding: 5px 10px;
-
-            &:not(:last-child) {
-                margin-right: 0;
-            }
-            margin-left: 20px;
-        }
-    }
 }
 
 
@@ -311,4 +264,21 @@ hr {
     padding-left: 0;
     list-style: none;
     margin-left: 0px;
+}
+
+@media(max-width: 860px) {
+    .head-size {
+        width:80%;
+    }
+}
+
+@media(max-width: 550px) {
+    .head-size {
+        width:100%;
+    }
+
+    .site-title {
+    font-size: 90px;
+    }
+
 }

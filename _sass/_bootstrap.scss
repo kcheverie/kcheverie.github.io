@@ -22,6 +22,23 @@ html {
 body {
   margin: 0;
 }
+
+.navbar-collapse.collapse {
+display: block!important;
+}
+
+.navbar-nav>li, .navbar-nav {
+float: left !important;
+}
+
+.navbar-nav.navbar-right:last-child {
+margin-right: -15px !important;
+}
+
+.navbar-right {
+float: right!important;
+}
+
 article,
 aside,
 details,
@@ -216,7 +233,6 @@ figure {
 }
 img {
   vertical-align: middle;
-  border: 1px solid #dbdbdb;
 }
 .img-responsive {
   display: block;
