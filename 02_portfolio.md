@@ -13,7 +13,7 @@ order: 2
   <div class="col-md-6"><h2>Get My MP</h2></div>
   <div class="col-md-6">
     <p><a href="https://getmymp.github.io" target="_blank">Link</a></p>
-    <p>A took to find and keep up with your local member of parliament.</p>
+    <p>A tool to find and keep up with your local member of parliament.</p>
   </div>
 
 
