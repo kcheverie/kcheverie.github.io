@@ -18,7 +18,7 @@ order: 2
 
 
 </div>
-<hr/>
+
 
 <div class="row">
   <div class="col-md-12">
@@ -34,7 +34,7 @@ order: 2
 
 </div>
 
-<hr/>
+
 <div class="row">
   <div class="col-md-12">
     <img class="portfolio-thumb" src = "/images/portfolio/weather/01.jpg"/>
@@ -47,7 +47,7 @@ order: 2
 
 </div>
 
-<hr/>
+
 <div class="row">
   <div class="col-md-12">
     <img class="portfolio-thumb" src = "/images/portfolio/contact-list.jpg"/>
@@ -62,7 +62,7 @@ order: 2
 </div>
 
 
-<hr/>
+
 <div class="row">
   <div class="col-md-12">
     <img class="portfolio-thumb" src = "/images/portfolio/rotten_mangoes/01.jpg"/>
@@ -74,7 +74,7 @@ order: 2
 
 </div>
 
-<hr/>
+
 <div class="row">
   <div class="col-md-12">
     <img class="portfolio-thumb" src = "/images/portfolio/ccubc.jpg"/>
@@ -82,7 +82,7 @@ order: 2
   <div class="col-md-6"><h2>Canadian Council of University Biology Chairs</h2></div>
   <div class="col-md-6"><p><a href="http://ccubc.ca/" target="_blank">ccubc.ca</a></p></div>
 </div>
-<hr/>
+
 <div class="row">
   <div class="col-md-12">
     <img class="portfolio-thumb" src = "/images/portfolio/pdsns/01.jpg"/>
@@ -91,7 +91,7 @@ order: 2
   <div class="col-md-6"><p><a href="http://www.pdsns.com/" target="_blank">pdsns.com</a></p></div>
 
 </div>
-<hr/>
+
 <div class="row">
   <div class="col-md-12">
     <img class="portfolio-thumb" src = "/images/portfolio/landmark/01.jpg"/>
